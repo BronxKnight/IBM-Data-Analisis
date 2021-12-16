@@ -38,5 +38,5 @@ By completing this course, you will have a basic understanding of using spreadsh
 
 Throughout this course you will encounter numerous hands-on labs and a final project. With each lab, gain hands-on experience with creating basic and advanced charts, then continue through the course and begin creating dashboards with spreadsheets and IBM Cognos Analytics. You will then end this course by creating a set of data visualizations with IBM Cognos Analytics and creating an interactive dashboard that can be shared with peers, professional communities or prospective employers.
 
-
+<img width="446" alt="sertifikat" src="https://user-images.githubusercontent.com/82905492/146324813-53455012-f6e2-4f05-b213-1177fc66d50b.png">
 or you can see at https://coursera.org/share/1402ef2b6f675e74d585f5ce685ccc60
