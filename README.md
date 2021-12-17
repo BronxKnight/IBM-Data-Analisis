@@ -63,3 +63,4 @@ To be successful in completing this project, you should have already completed t
 
 <img width="512" alt="sertifikat" src="https://user-images.githubusercontent.com/82905492/146539686-d88f94e0-a64f-4063-abf8-1efcd8ee0f52.png">
 
+or you can see at https://www.coursera.org/account/accomplishments/verify/YYVWH9E3SPRS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
