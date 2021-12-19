@@ -92,3 +92,6 @@ The main goal of this Data Visualization with Python course is to teach you how 
 ![image](https://user-images.githubusercontent.com/82905492/146667333-a1f861eb-fccc-4de4-b5db-8598cf4329f6.png)
 
 or you can see at https://www.coursera.org/account/accomplishments/verify/UYB98K7GM9UA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+
+
+
