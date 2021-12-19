@@ -65,6 +65,13 @@ To be successful in completing this project, you should have already completed t
 
 or you can see at https://www.coursera.org/account/accomplishments/verify/YYVWH9E3SPRS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
 
+### Databases and SQL for Data Science
+
+The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.
+
+![image](https://user-images.githubusercontent.com/82905492/146687658-42adf3e1-57e4-48a0-b377-77b2ffcf5e87.png)
+or you can see at https://www.coursera.org/account/accomplishments/verify/YKFVRSW4CJHX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
+
 ### Data Analysis with Python
 
 About this Course
@@ -93,5 +100,15 @@ The main goal of this Data Visualization with Python course is to teach you how 
 
 or you can see at https://www.coursera.org/account/accomplishments/verify/UYB98K7GM9UA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
 
+### IBM Data Analisis Cpastone Project
 
+In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
+
+You will undertake the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard. The project will culminate with a presentation of your data analysis report, with an executive summary for the various stakeholders in the organization. You will be assessed on both your work for the various stages in the Data Analysis process, as well as the final deliverable. 
+
+This project is a great opportunity to showcase your Data Analytics skills, and demonstrate your proficiency to potential employers.
+![image](https://user-images.githubusercontent.com/82905492/146687678-1ec8a222-5ee0-4d9c-961e-038f8d5cea0f.png)
+https://coursera.org/share/ab36e6a0130b5f63808a0ccfe7e17c4f
+
+or you can see at https://coursera.org/share/ab36e6a0130b5f63808a0ccfe7e17c4f
 
