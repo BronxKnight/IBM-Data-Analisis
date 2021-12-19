@@ -5,6 +5,10 @@ One of the key skills of a data scientist is the ability to tell a compelling st
 
 The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
 
+![image](https://user-images.githubusercontent.com/82905492/146667333-a1f861eb-fccc-4de4-b5db-8598cf4329f6.png)
+
+or you can see at https://www.coursera.org/account/accomplishments/verify/UYB98K7GM9UA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+
  # Courses
   ### * Introduction to Matplotlib and Line Plots
    ![image](https://user-images.githubusercontent.com/82905492/146667221-3f645d6f-daa2-4607-9718-c1a0c6273e66.png)
@@ -40,9 +44,3 @@ The main goal of this Data Visualization with Python course is to teach you how 
 
   
   
-
-## Certificate
-
-![image](https://user-images.githubusercontent.com/82905492/146667333-a1f861eb-fccc-4de4-b5db-8598cf4329f6.png)
-
-or you can see at https://www.coursera.org/account/accomplishments/verify/UYB98K7GM9UA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
