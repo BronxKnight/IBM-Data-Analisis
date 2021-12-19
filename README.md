@@ -108,7 +108,7 @@ You will undertake the tasks of collecting data from multiple sources, performin
 
 This project is a great opportunity to showcase your Data Analytics skills, and demonstrate your proficiency to potential employers.
 ![image](https://user-images.githubusercontent.com/82905492/146687678-1ec8a222-5ee0-4d9c-961e-038f8d5cea0f.png)
-https://coursera.org/share/ab36e6a0130b5f63808a0ccfe7e17c4f
+
 
 or you can see at https://coursera.org/share/ab36e6a0130b5f63808a0ccfe7e17c4f
 
