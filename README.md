@@ -82,3 +82,13 @@ Topics covered:
 <img width="347" alt="sertifikat" src="https://user-images.githubusercontent.com/82905492/146595038-68c88faa-7db9-4b79-97d9-7fde540cd9ce.png">
 
 or you can see at : https://www.coursera.org/account/accomplishments/verify/CQRCE759SMTB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+
+### Data Visualization with Python
+
+One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.
+
+The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
+
+![image](https://user-images.githubusercontent.com/82905492/146667333-a1f861eb-fccc-4de4-b5db-8598cf4329f6.png)
+
+or you can see at https://www.coursera.org/account/accomplishments/verify/UYB98K7GM9UA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
